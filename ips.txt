@@ -1,0 +1,10 @@
+www.google.com
+www.intel.com
+www.ibm.com
+localhost
+127.0.0.1
+www.wellsfargopythonramesh.com
+www.microsoft.com
+www.wellsfargo.com
+www.mongofactory.com
+www.indianblooddonors.com

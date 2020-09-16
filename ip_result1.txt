@@ -1,0 +1,36 @@
+ www.google.com is up
+ www.intel.com is up
+ www.ibm.com is up
+ localhost is up
+ 127.0.0.1 is up
+www.wellsfargopythonramesh.com is down
+ www.microsoft.com is up
+www.wellsfargo.com is down
+ www.mongofactory.com is up
+ www.google.com is up
+ www.intel.com is up
+ www.ibm.com is up
+ localhost is up
+ 127.0.0.1 is up
+www.wellsfargopythonramesh.com is down
+ www.microsoft.com is up
+ www.google.com is up
+www.intel.com is down
+ www.ibm.com is up
+localhost is down
+127.0.0.1 is down
+www.wellsfargopythonramesh.com is down
+www.microsoft.com is down
+www.wellsfargo.com is down
+www.mongofactory.com is down
+www.indianblooddonors.com is down
+ www.google.com is up
+ www.intel.com is up
+ www.ibm.com is up
+ localhost is up
+ 127.0.0.1 is up
+www.wellsfargopythonramesh.com is down
+ www.microsoft.com is up
+www.wellsfargo.com is down
+ www.mongofactory.com is up
+ www.indianblooddonors.com is up

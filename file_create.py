@@ -1,0 +1,18 @@
+f = open("sample.txt","w")
+f.write("This is line number one\n")
+f.write("This is line number two\n")
+f.write("This is line number three\n")
+f.write("This is line number 4\n")
+f.write("This is line number 5\n")
+f.write("6 th line\n")
+f.close()
+
+
+f = open("sample1.txt","a")
+f.write("This is line number one\n")
+f.write("This is line number two\n")
+f.write("This is line number three\n")
+f.write("This is line number 4\n")
+f.write("This is line number 5\n")
+f.write("6 th line\n")
+f.close()

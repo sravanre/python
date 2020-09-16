@@ -1,0 +1,38 @@
+ w is up w is up w is up l is up 1 is upipa[ip] is down w is upipa[ip] is downipa[ip] is down w is up w is upipa[ip] is downipa[ip] is downipa[ip] is downipa[ip] is downipa[ip] is downipa[ip] is downipa[ip] is downipa[ip] is down w is up www.google.com
+ is upwww.intel.com
+ is downwww.ibm.com
+ is downlocalhost
+ is down127.0.0.1
+ is downwww.wellsfargopythonramesh.com
+ is downwww.microsoft.com
+ is downwww.wellsfargo.com
+ is downwww.mongofactory.com
+ is downwww.indianblooddonors.com is downwww.google.com
+ is down
+www.intel.com
+ is down
+www.ibm.com
+ is down
+localhost
+ is down
+127.0.0.1
+ is down
+www.wellsfargopythonramesh.com
+ is down
+www.microsoft.com
+ is down
+www.wellsfargo.com
+ is down
+www.mongofactory.com
+ is down
+www.indianblooddonors.com is down
+www.google.com
+ is downwww.intel.com
+ is downwww.ibm.com
+ is downlocalhost
+ is down127.0.0.1
+ is downwww.wellsfargopythonramesh.com
+ is downwww.microsoft.com
+ is downwww.wellsfargo.com
+ is downwww.mongofactory.com
+ is downwww.indianblooddonors.com is downwww.google.com is downwww.intel.com is downwww.ibm.com is downlocalhost is down127.0.0.1 is downwww.wellsfargopythonramesh.com is downwww.microsoft.com is downwww.wellsfargo.com is downwww.mongofactory.com is downwww.indianblooddonors.com is down www.google.com is up www.intel.com is up www.ibm.com is up localhost is up 127.0.0.1 is upwww.wellsfargopythonramesh.com is down www.microsoft.com is upwww.wellsfargo.com is down www.mongofactory.com is up www.indianblooddonors.com is up
