@@ -1,0 +1,4 @@
+port = 3000
+tmp = c:\tmp
+verbose = on
+maxusers = 400
